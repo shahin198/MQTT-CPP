@@ -1,6 +1,8 @@
 # MQTT-CPP
 https://www.yatta.de/profiles/hub/rg7l
 
+https://github.com/eclipse/paho.mqtt.cpp
+
 
 CMake v3.5 or newer
 GCC v4.8 or newer or Clang v3.9 or newer
