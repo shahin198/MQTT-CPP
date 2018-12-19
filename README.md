@@ -36,3 +36,4 @@ $ cd build
 $ cmake -DPAHO_BUILD_DOCUMENTATION=TRUE -DPAHO_BUILD_SAMPLES=TRUE -DPAHO_MQTT_C_PATH=../../paho.mqtt.c ..
 $ make
 ```
+const std::string DFLT_SERVER_ADDRESS	{ "tcp://localhost:1883" };
